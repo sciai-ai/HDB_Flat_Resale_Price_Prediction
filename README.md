@@ -20,6 +20,12 @@ The following are a brief explanation of the different folders, document and fil
 ## 4. Folder - Data
 - This folder contains all the datasets used in this project.
 - The various datasets are saved in this folder to reduce resources required to extract the full data from various APIs.
+  - dat_hdb.csv: HDB Flat Resale Transaction Data (Jan 2017 - Jan 2020), retrieved from Data.gov.sg
+  - dat_coord.csv: Coordinate data for each transaction address extracted via geocoding
+  - dat_venues.csv: Nearby venues data for each transaction location within 500m radius, extracted from Foursquare
+  - dat_results.csv: Summary table of the performance metrics between the two models
+  - dat_pred.csv: Prediction results vs actual transaction price of HDB Resale Flats.
+  - dat_final.csv: Processed data used for model building.
 
 ## 5. Folder - Images
 - This folder contains all the graphs used in the Presentation Deck and Report.
