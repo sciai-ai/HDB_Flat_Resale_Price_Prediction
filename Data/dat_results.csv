@@ -1,0 +1,4 @@
+Metrics,Lasso Regression,XGBoost
+MAE,406.29,121.92
+RMSE,527.06,206.77
+R2 Score,0.81,0.97
