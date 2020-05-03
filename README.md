@@ -1,6 +1,5 @@
 # HDB Flat Resale Price Prediction
 
-(This project is coded in Python 3)
 
 ## Overview of Project Components
 
